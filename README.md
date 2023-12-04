@@ -1,4 +1,4 @@
-# Devastorix
+# Devastorix 🤖👽
 
 
 ![Devastorix](https://github.com/Wadee-Haddad/Devastorix/assets/117990238/761ccf7f-7155-45e6-8070-eaea85a8b0a3)
