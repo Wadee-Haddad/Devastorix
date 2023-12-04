@@ -1,20 +1,9 @@
 # Devastorix
 
-A Python script for automating message sending using pyautogui and tkinter.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/Devastorix?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/your-username/Devastorix?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/Devastorix?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/your-username/Devastorix?style=flat-square)
+![Devastorix](https://github.com/Wadee-Haddad/Devastorix/assets/117990238/761ccf7f-7155-45e6-8070-eaea85a8b0a3)
 
-## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
